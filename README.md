@@ -1,3 +1,3 @@
-# Demo 
+# Exercise 
 
-Some description
+Some exercises to learn how to use GIT :)
